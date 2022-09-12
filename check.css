@@ -1,0 +1,51 @@
+body{
+  font-family: sans-serif;
+  text-align: justify;
+  color: blue;
+  width: 1200px;
+  margin: auto;
+}
+
+nav{
+ font-size:25px;
+ color:red;
+ text-align: center;
+}
+
+li{
+    display: inline;
+    padding: 40px;
+}
+main{
+display: flex;    
+}
+
+section{
+    size: 33,33%
+}
+
+article{
+  padding-right: 30px;
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    color: red;
+}
+
+button{
+    width: 400px;
+    height: 30px;
+    background-color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+footer{
+    font-size: 15px;
+    text-align: center;
+}
